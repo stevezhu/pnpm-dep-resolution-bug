@@ -1,0 +1,6 @@
+{
+  "name": "web-app",
+  "dependencies": {
+    "react": "^19.2.4"
+  }
+}

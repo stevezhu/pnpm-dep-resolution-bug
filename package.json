@@ -1,0 +1,4 @@
+{
+  "name": "pnpm-dep-resolution-bug",
+  "packageManager": "pnpm@10.33.0"
+}
